@@ -6,7 +6,7 @@ steps done
 
 1.Created a database
 
-2. Created a table
+2.Created a table
    
 3.Used SELECT command to display the table.
 
@@ -16,7 +16,7 @@ steps done
 
 6.Renamed the table to classten.
 
-7. Deleted all the rows from the table using TRUNCATE command.
+7.Deleted all the rows from the table using TRUNCATE command.
 
 8.Removed the table.
 
