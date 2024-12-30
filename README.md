@@ -30,7 +30,7 @@ Steps Done
 
 2.created a new table named “Orders” in the Sales database with columns: (Order_Id, Customer_name, Product_Category, Ordered_item, Contact_No). 
 
-3. Added a new column named “order_quantity” to the orders table.
+3.Added a new column named “order_quantity” to the orders table.
   
 4.Renamed the orders table to the sales_orders table. 
      
