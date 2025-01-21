@@ -42,3 +42,7 @@ Steps Done
 
 8.Deleted the sales_orders table from the database.
 
+# Assigmnet 3 
+
+This Assigment is about DML Commands
+
