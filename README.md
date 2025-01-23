@@ -46,3 +46,7 @@ Steps Done
 
 This Assigment is about DML Commands
 
+# Assigment 4
+
+This assigment is about Querying data
+
