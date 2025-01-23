@@ -1,4 +1,4 @@
-# Assigment 1
+# Assignment 1
 
 This Assigment is about the DDL commands
 
@@ -20,7 +20,7 @@ steps done
 
 8.Removed the table.
 
-# Assigment 2
+# Assignment 2
 
 This Assigmnet is about constraints and DML And DDL commands.
 
@@ -42,11 +42,15 @@ Steps Done
 
 8.Deleted the sales_orders table from the database.
 
-# Assigmnet 3 
+# Assignment 3 
 
 This Assigment is about DML Commands
 
-# Assigment 4
+# Assignment 4
 
 This assigment is about Querying data
 
+# Assignment 5 
+
+
+This assignment is about sorting and grouping data
