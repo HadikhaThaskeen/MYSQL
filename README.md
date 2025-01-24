@@ -54,3 +54,7 @@ This assigment is about Querying data
 
 
 This assignment is about sorting and grouping data
+
+# Assignment 6 
+
+This Assignment is about joins and union.
