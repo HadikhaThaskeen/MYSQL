@@ -57,4 +57,4 @@ This assignment is about sorting and grouping data
 
 # Assignment 6 
 
-This Assignment is about joins and union.
+This Assignment is about joins and union .
