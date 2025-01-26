@@ -58,3 +58,7 @@ This assignment is about sorting and grouping data
 # Assignment 6 
 
 This Assignment is about joins and union .
+
+# Assignment 7 
+
+This assignment is about function 
