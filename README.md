@@ -62,3 +62,9 @@ This Assignment is about joins and union .
 # Assignment 7 
 
 This assignment is about function 
+
+# Assignment 8 
+This Assignment is about Subqueries and Views.
+
+# Assignemnt 
+This Assignment is about Stored Procedures.
