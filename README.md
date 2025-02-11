@@ -66,5 +66,9 @@ This assignment is about function
 # Assignment 8 
 This Assignment is about Subqueries and Views.
 
-# Assignemnt 
+# Assignment 9
 This Assignment is about Stored Procedures.
+
+# Assignment 10 
+
+This Assignment is about Triggers.
